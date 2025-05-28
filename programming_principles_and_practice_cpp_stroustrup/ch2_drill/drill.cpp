@@ -1,5 +1,5 @@
 // read and write a first name and age
-
+// INCOMPLETE
 import std;
 
 using namespace std;
@@ -17,6 +17,6 @@ int main()
 	int age = -1;
 	cin >> age;
 	cout << "\nDear " << first_name << ",\n" << "\tHow are you? I am fine. I miss you.\nI hope we can make cookies together someday."
-		<< "We need to buy a good chocolate if we want to make them pretty good Have you seen " << friend_name << " lately?"
+		<< "We need to buy a good chocolate if we want to make them pretty good Have you seen " << friend_name << " lately?";
 
 }
