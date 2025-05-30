@@ -6,9 +6,10 @@ using namespace std;
 
 int main()
 {
-	cout << "Please enter a floating-point value: ";
+	cout << "Please enter an integer value: ";
 
-	int n = 0;
+	int n = -1;
+
 	cin >> n;
 	cout << "n ==" << n
 		<< "\nn+1 ==" << n + 1
