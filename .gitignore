@@ -402,3 +402,10 @@ FodyWeavers.xsd
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
+hands_on_ml_geron/ch2/datasets/housing.tgz
+hands_on_ml_geron/ch2/datasets/housing/housing.csv
+hands_on_ml_geron/ch2/datasets/titanic.zip
+hands_on_ml_geron/ch2/datasets/titanic/gender_submission.csv
+hands_on_ml_geron/ch2/datasets/titanic/test.csv
+hands_on_ml_geron/ch2/datasets/titanic/train.csv
+hands_on_ml_geron/ch2/my_california_housing_model.pkl
