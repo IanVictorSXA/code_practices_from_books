@@ -20,4 +20,6 @@ Book: Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow 3rd edit
 
 **Chapter 9 folder - Unsupervised Learning:** trying K-Means, semi-supervised learning, DBSCAN, Gaussian Mixtures, Bayesian Gaussian Mixtures, recognizing faces on the Olivetti dataset
 
-**Chapter 10 folder**:
+**Chapter 10 folder**: Introduction to artifical neural networks with keras. Simple MLPs, callbacks, fine-tuning.
+
+**Chapter 11 folder**:
