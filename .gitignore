@@ -426,3 +426,6 @@ hands_on_ml_geron/ch10/my_keras_model.keras
 *.v2
 *.json
 *.keras
+/hands_on_ml_geron/ch13/mnist_test
+/hands_on_ml_geron/ch13/mnist_train
+/hands_on_ml_geron/ch13/mnist_valid

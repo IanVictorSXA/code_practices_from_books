@@ -22,6 +22,10 @@ Book: Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow 3rd edit
 
 **Chapter 9 folder - Unsupervised Learning:** trying K-Means, semi-supervised learning, DBSCAN, Gaussian Mixtures, Bayesian Gaussian Mixtures, recognizing faces on the Olivetti dataset
 
-**Chapter 10 folder**: Introduction to artifical neural networks with keras. Simple MLPs, callbacks, fine-tuning.
+**Chapter 10 folder**: Introduction to artifical neural networks with keras. Simple MLPs, callbacks, hyperparameter tuning.
 
-**Chapter 11 folder**:
+**Chapter 11 folder**: Training deep neural networks. Initializers, better activation functions, batch normalization, transfer learning, better optimizers, learning rate scheduling.
+
+**Chapter 12 folder**: Custom models and training with TensorFlow. Using TensorFlow like NumPy, customizing models and training algorithms, TF functions and graphs
+
+**Chapter 13 folder**: Loading and preprocessing data with TensorFlow.
